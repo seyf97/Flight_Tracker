@@ -22,7 +22,11 @@ Users edit the city name and the minimum cost they desire.
 4. If the price is lower than the one stated on google sheets, the user is notified with an SMS via the Twilio API.
 
 
-Example:
+## Example:
+
+![image](https://github.com/seyf97/Flight_Tracker/assets/111386377/d01ec35b-af2a-4746-900a-7cc521b8f44b)
+
+
 ![image](https://github.com/seyf97/Flight_Tracker/assets/111386377/d4d25c54-7953-4bb7-be39-42102171b48b)
 
 
