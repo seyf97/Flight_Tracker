@@ -1,5 +1,6 @@
 # Flight_Tracker
-Tracks flights from google docs to see if there's a cheaper flight
+Tracks flights from google docs to see if there's a cheaper flight.
+
 The document: https://docs.google.com/spreadsheets/d/1jUyN6Koa4EH4F2rLjUcaolG7IO4wGzbZgQ0kxgB2NnA/edit?usp=sharing
 
 Users edit the city name and the minimum cost they desire. 
